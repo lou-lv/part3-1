@@ -1,3 +1,3 @@
-alert("Hello World");
-alert("bonjour");
-alert("coucou");
+var msg = "Hello World"
+alert(msg);
+alert("Bonjour");
